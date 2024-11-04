@@ -3,5 +3,8 @@ yfinance
 plotly
 pandas
 numpy
-ta.volume 
-ta.trend 
+ta
+
+
+
+
