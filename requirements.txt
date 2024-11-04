@@ -1,6 +1,6 @@
 streamlit 
 yfinance 
-plotly.graph_objects 
+plotly
 pandas
 numpy
 ta.volume 
